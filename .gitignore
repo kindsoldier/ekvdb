@@ -1,0 +1,6 @@
+*.elf
+*.bin
+*.map
+*.geany
+*.o
+*~
